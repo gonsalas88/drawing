@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/drawing/__init__.py
+src/drawing/colors.py
+src/drawing/shapes.py
+src/drawing.egg-info/PKG-INFO
+src/drawing.egg-info/SOURCES.txt
+src/drawing.egg-info/dependency_links.txt
+src/drawing.egg-info/top_level.txt

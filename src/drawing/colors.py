@@ -1,0 +1,2 @@
+det red():
+    print("vermelho")
